@@ -1,0 +1,1172 @@
+{
+  "frames": [
+    {
+      "id": "frame_001",
+      "title": "Accepting or refusing",
+      "core_fes": [
+        "Speaker",
+        "Proposal",
+        "Proposer"
+      ],
+      "non_core_fes": [
+        "Degree of willingness",
+        "Circumstances"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_002",
+      "title": "Accessing_a_memory",
+      "core_fes": [
+        "Cognizer",
+        "Past events"
+      ],
+      "non_core_fes": [
+        "Degree of ability",
+        "Time period"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": [
+          "Causing_to_remember"
+        ]
+      }
+    },
+    {
+      "id": "frame_003",
+      "title": "Agreement_or_disagreement",
+      "core_fes": [
+        "Opinion",
+        "Judge",
+        "Theory"
+      ],
+      "non_core_fes": [
+        "Evaluee",
+        "Intensity",
+        "Manner"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [
+          "Holding_an_opinion"
+        ],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_004",
+      "title": "Associating_data",
+      "core_fes": [
+        "Cognizer",
+        "Cause",
+        "Effect"
+      ],
+      "non_core_fes": [
+        "Information",
+        "Sources"
+      ],
+      "relations": {
+        "superframe_of": [
+          "Drawing_a_conclusion"
+        ],
+        "subframe_of": [
+          "Understanding"
+        ],
+        "uses": [
+          "Cause_and_effect"
+        ],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_005",
+      "title": "Assuming_an_opinion",
+      "core_fes": [
+        "Cognizer",
+        "Opinion",
+        "Topic"
+      ],
+      "non_core_fes": [
+        "Persuader"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [
+          "Taking_into_account"
+        ],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [
+          "Holding_an_opinion"
+        ],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_006",
+      "title": "Categorising",
+      "core_fes": [
+        "Cognizer",
+        "Item",
+        "Category"
+      ],
+      "non_core_fes": [],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_007",
+      "title": "Cause_and_effect",
+      "core_fes": [
+        "Situation 1",
+        "Situation 2"
+      ],
+      "non_core_fes": [
+        "Probability"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [
+          "Associating_data"
+        ],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_008",
+      "title": "Causing_to_remember",
+      "core_fes": [
+        "Cognizer",
+        "Speaker",
+        "Item",
+        "Present situation",
+        "Fact",
+        "Past situation"
+      ],
+      "non_core_fes": [
+        "Intensity"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [
+          "Accessing_a_memory"
+        ],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_009",
+      "title": "Communicating",
+      "core_fes": [
+        "Receptor",
+        "Communicator"
+      ],
+      "non_core_fes": [
+        "Means",
+        "Medium"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_010",
+      "title": "Communicating_a_response",
+      "core_fes": [
+        "Speaker",
+        "Question"
+      ],
+      "non_core_fes": [
+        "Degree of certainty",
+        "Persuader",
+        "Enquirer"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [],
+        "uses": [
+          "Conversation"
+        ],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_011",
+      "title": "Communicating_an_opinion",
+      "core_fes": [
+        "Speaker",
+        "Opinion",
+        "State of affairs"
+      ],
+      "non_core_fes": [
+        "Strength of opinion"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [],
+        "uses": [
+          "Conversation"
+        ],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_012",
+      "title": "Conversation",
+      "core_fes": [
+        "Speaker",
+        "Topic",
+        "Speaker 1",
+        "Speaker n"
+      ],
+      "non_core_fes": [
+        "Intensity of exchange",
+        "Place"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [
+          "Transferring_knowledge",
+          "Communicating_a_response",
+          "Communicating_an_opinion",
+          "Demanding"
+        ],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_013",
+      "title": "Demanding",
+      "core_fes": [
+        "Speaker",
+        "Manner",
+        "Actor"
+      ],
+      "non_core_fes": [
+        "Desired effect"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [
+          "Desiring"
+        ],
+        "uses": [
+          "Conversation"
+        ],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_014",
+      "title": "Desiring",
+      "core_fes": [
+        "Cognizer",
+        "Situation",
+        "Outcome"
+      ],
+      "non_core_fes": [],
+      "relations": {
+        "superframe_of": [
+          "Demanding"
+        ],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_015",
+      "title": "Detailing_a_situation",
+      "core_fes": [
+        "Speaker",
+        "Situation",
+        "Addressee"
+      ],
+      "non_core_fes": [
+        "Judgment"
+      ],
+      "relations": {
+        "superframe_of": [
+          "Emphasising",
+          "Explaining_the_meaning_of",
+          "Visual_description"
+        ],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_016",
+      "title": "Drawing_a_conclusion",
+      "core_fes": [
+        "Cognizer",
+        "Data",
+        "Indications",
+        "Opinion",
+        "Topic"
+      ],
+      "non_core_fes": [
+        "Degree of certainty"
+      ],
+      "relations": {
+        "superframe_of": [
+          "Associating_data"
+        ],
+        "subframe_of": [
+          "Understanding"
+        ],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_017",
+      "title": "Emphasising",
+      "core_fes": [
+        "Speaker",
+        "Situation",
+        "Aspect"
+      ],
+      "non_core_fes": [
+        "Degree of emphasis"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [
+          "Detailing_a_situation"
+        ],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_018",
+      "title": "Explaining_the_meaning_of",
+      "core_fes": [
+        "Speaker",
+        "Meaning",
+        "Piece of language",
+        "Form of expression"
+      ],
+      "non_core_fes": [],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [
+          "Detailing_a_situation"
+        ],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_019",
+      "title": "Expressing_certainty_or_uncertainty",
+      "core_fes": [
+        "Speaker",
+        "Degree of certainty",
+        "Fact",
+        "Event"
+      ],
+      "non_core_fes": [
+        "Addressee"
+      ],
+      "relations": {
+        "superframe_of": [
+          "Holding_an_opinion"
+        ],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_020",
+      "title": "Expressing_emotions",
+      "core_fes": [
+        "Situation",
+        "Experiencer",
+        "Emotion"
+      ],
+      "non_core_fes": [
+        "Intensity",
+        "Manner",
+        "Reason"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_021",
+      "title": "Expressing_judgment",
+      "core_fes": [
+        "Judge",
+        "Evaluee",
+        "Stance"
+      ],
+      "non_core_fes": [
+        "Topic",
+        "Addressee"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [
+          "Expressing_justification"
+        ],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_022",
+      "title": "Expressing_justification",
+      "core_fes": [
+        "Judge",
+        "Action",
+        "Idea",
+        "Notion"
+      ],
+      "non_core_fes": [
+        "Means",
+        "Evaluee",
+        "Intensity",
+        "Manner"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [
+          "Expressing_judgment"
+        ],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_023",
+      "title": "Formal_announcement",
+      "core_fes": [
+        "Speaker",
+        "Topic",
+        "Message"
+      ],
+      "non_core_fes": [
+        "Addressee",
+        "Medium"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [
+          "Statement"
+        ],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_024",
+      "title": "Giving_a_directive",
+      "core_fes": [
+        "Authority",
+        "Directions"
+      ],
+      "non_core_fes": [
+        "Situation"
+      ],
+      "relations": {
+        "superframe_of": [
+          "Granting_or_denying_permission"
+        ],
+        "subframe_of": [
+          "Formal_announcement",
+          "Statement"
+        ],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_025",
+      "title": "Granting_or_denying_permission",
+      "core_fes": [
+        "Actor",
+        "Authority",
+        "Course of action"
+      ],
+      "non_core_fes": [
+        "State of affairs"
+      ],
+      "relations": {
+        "superframe_of": [
+          "Giving_a_directive"
+        ],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_026",
+      "title": "Holding_an_opinion",
+      "core_fes": [
+        "Cognizer",
+        "Conclusion",
+        "Opinion",
+        "Topic"
+      ],
+      "non_core_fes": [
+        "Degree of certainty"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [
+          "Expressing_certainty_or_uncertainty"
+        ],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": [
+          "Assuming_an_opinion"
+        ]
+      }
+    },
+    {
+      "id": "frame_027",
+      "title": "Hypothesising",
+      "core_fes": [
+        "Cognizer",
+        "Probable state of affairs"
+      ],
+      "non_core_fes": [
+        "Information",
+        "Probability"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [
+          "Expressing_certainty_or_uncertainty",
+          "Holding_an_opinion"
+        ],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_028",
+      "title": "Influencing_one’s_reputation",
+      "core_fes": [
+        "Speaker",
+        "Evaluee",
+        "Situation",
+        "Event"
+      ],
+      "non_core_fes": [
+        "Judge",
+        "Field of expertise",
+        "Amount of time"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_029",
+      "title": "Justifying",
+      "core_fes": [
+        "Judge",
+        "Action",
+        "Idea",
+        "Notion"
+      ],
+      "non_core_fes": [
+        "Means",
+        "Evaluee",
+        "Degree of acceptability"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_030",
+      "title": "Knowledge_of_a_topic",
+      "core_fes": [
+        "Cognizer",
+        "Topic"
+      ],
+      "non_core_fes": [
+        "Degree of certainty",
+        "Amount of knowledge"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": [
+          "Transferring_knowledge"
+        ]
+      }
+    },
+    {
+      "id": "frame_031",
+      "title": "Making_public",
+      "core_fes": [
+        "Information",
+        "Actor",
+        "Situation",
+        "Person"
+      ],
+      "non_core_fes": [
+        "Medium"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [
+          "Statement"
+        ],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": [
+          "Transferring_knowledge"
+        ]
+      }
+    },
+    {
+      "id": "frame_032",
+      "title": "Medical_examination",
+      "core_fes": [
+        "Medical professional",
+        "Patient",
+        "Diagnosis"
+      ],
+      "non_core_fes": [],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [
+          "Scrutinising"
+        ],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_033",
+      "title": "Proving_or_disproving",
+      "core_fes": [
+        "Cognizer",
+        "Speaker",
+        "Fact",
+        "Event",
+        "Proposed statement",
+        "Event 1",
+        "Statement"
+      ],
+      "non_core_fes": [
+        "Means"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": [
+          "Transferring_knowledge"
+        ]
+      }
+    },
+    {
+      "id": "frame_034",
+      "title": "Remembering_to_act",
+      "core_fes": [
+        "Cognizer",
+        "Action"
+      ],
+      "non_core_fes": [
+        "Orderer"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [
+          "Accessing_a_memory"
+        ],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_035",
+      "title": "Remembering_where_something_is_situated",
+      "core_fes": [
+        "Cognizer",
+        "Theme"
+      ],
+      "non_core_fes": [
+        "Possible location"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [
+          "Accessing_a_memory"
+        ],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_036",
+      "title": "Requesting",
+      "core_fes": [
+        "Speaker",
+        "State of affairs"
+      ],
+      "non_core_fes": [
+        "Degree of urgency",
+        "Audience"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_037",
+      "title": "Scrutinising",
+      "core_fes": [
+        "Cognizer",
+        "Information",
+        "Conclusion",
+        "State of affairs",
+        "Object"
+      ],
+      "non_core_fes": [],
+      "relations": {
+        "superframe_of": [
+          "Medical_examination"
+        ],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_038",
+      "title": "Sorting_out",
+      "core_fes": [
+        "Cognizer",
+        "Opinion",
+        "Fact",
+        "Characteristic"
+      ],
+      "non_core_fes": [
+        "Information"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_039",
+      "title": "Statement",
+      "core_fes": [
+        "Speaker",
+        "Addressee",
+        "Message"
+      ],
+      "non_core_fes": [
+        "Medium"
+      ],
+      "relations": {
+        "superframe_of": [
+          "Making_public"
+        ],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [
+          "Formal_announcement"
+        ],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_040",
+      "title": "Taking_into_account",
+      "core_fes": [
+        "Cognizer",
+        "Information",
+        "Conclusion",
+        "Fact"
+      ],
+      "non_core_fes": [
+        "Persuader",
+        "Method"
+      ],
+      "relations": {
+        "superframe_of": [
+          "Assuming_an_opinion"
+        ],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_041",
+      "title": "Threatening",
+      "core_fes": [
+        "Speaker",
+        "Act"
+      ],
+      "non_core_fes": [
+        "Addressee",
+        "Action",
+        "Requirement"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_042",
+      "title": "Transferring_knowledge",
+      "core_fes": [
+        "Cognizer",
+        "Information",
+        "Topic",
+        "Knowledge"
+      ],
+      "non_core_fes": [
+        "Means",
+        "Investigation",
+        "Teacher"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [],
+        "uses": [
+          "Conversation"
+        ],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [
+          "Knowledge_of_a_topic"
+        ],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_043",
+      "title": "Understanding",
+      "core_fes": [
+        "Cognizer",
+        "Conclusion"
+      ],
+      "non_core_fes": [
+        "Information"
+      ],
+      "relations": {
+        "superframe_of": [
+          "Associating_data"
+        ],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_044",
+      "title": "Understanding",
+      "core_fes": [
+        "Cognizer",
+        "Conclusion"
+      ],
+      "non_core_fes": [
+        "Information"
+      ],
+      "relations": {
+        "superframe_of": [
+          "Associating_data"
+        ],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_045",
+      "title": "Urging",
+      "core_fes": [
+        "Speaker",
+        "Addressee",
+        "Course of action"
+      ],
+      "non_core_fes": [
+        "Means",
+        "Intensity"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [
+          "Warning"
+        ],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_046",
+      "title": "Visual_description",
+      "core_fes": [
+        "Speaker",
+        "Visual Experience"
+      ],
+      "non_core_fes": [
+        "Manner",
+        "Addressee",
+        "Disposition"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [
+          "Detailing_a_situation"
+        ],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    },
+    {
+      "id": "frame_047",
+      "title": "Warning",
+      "core_fes": [
+        "Speaker",
+        "Addressee",
+        "Course of action",
+        "Unpleasant consequences"
+      ],
+      "non_core_fes": [
+        "Intensity",
+        "Affected Party"
+      ],
+      "relations": {
+        "superframe_of": [],
+        "subframe_of": [],
+        "uses": [],
+        "is_used_by": [],
+        "inherits_from": [
+          "Urging"
+        ],
+        "is_inherited_by": [],
+        "precedes": [],
+        "is_preceded_by": []
+      }
+    }
+  ]
+}
