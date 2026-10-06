@@ -1,0 +1,1740 @@
+{
+  "lexical_units": [
+    {
+      "id": "lu_001",
+      "lu": "ακροάζομαι",
+      "belongs_to": [
+        "Medical_examination"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_002",
+      "lu": "αμφισβητώ",
+      "belongs_to": [
+        "Expressing_certainty_or_uncertainty"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_003",
+      "lu": "αναγνωρίζω",
+      "belongs_to": [
+        "Associating_data"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_004",
+      "lu": "αναγνωρίζω",
+      "belongs_to": [
+        "Expressing_judgment"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_005",
+      "lu": "ανακοινώνω",
+      "belongs_to": [
+        "Formal_announcement"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_006",
+      "lu": "αναλύω",
+      "belongs_to": [
+        "Detailing_a_situation"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_007",
+      "lu": "αναλύω",
+      "belongs_to": [
+        "Explaining_the_meaning_of"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_008",
+      "lu": "αναλύω",
+      "belongs_to": [
+        "Scrutinising"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_009",
+      "lu": "αναμένω",
+      "belongs_to": [
+        "Holding_an_opinion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_010",
+      "lu": "αναφέρω",
+      "belongs_to": [
+        "Statement"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_011",
+      "lu": "ανιχνεύω",
+      "belongs_to": [
+        "Drawing_a_conclusion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_012",
+      "lu": "ανιχνεύω",
+      "belongs_to": [
+        "Sorting_out"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_013",
+      "lu": "απαγορεύω",
+      "belongs_to": [
+        "Granting_or_denying_permission"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_014",
+      "lu": "απαιτώ",
+      "belongs_to": [
+        "Demanding"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_015",
+      "lu": "απαιτώ",
+      "belongs_to": [
+        "Formal_announcement"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_016",
+      "lu": "απαντώ",
+      "belongs_to": [
+        "Communicating_a_response"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_017",
+      "lu": "απειλώ",
+      "belongs_to": [
+        "Threatening"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_018",
+      "lu": "αποδεικνύω",
+      "belongs_to": [
+        "Proving_or_disproving"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_019",
+      "lu": "αποδίδω",
+      "belongs_to": [
+        "Associating_data"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_020",
+      "lu": "αποδίδω",
+      "belongs_to": [
+        "Drawing_a_conclusion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_021",
+      "lu": "αποκαλύπτω",
+      "belongs_to": [
+        "Making_public"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_022",
+      "lu": "απορρίπτω",
+      "belongs_to": [
+        "Accepting or refusing"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_023",
+      "lu": "αποφασίζω",
+      "belongs_to": [
+        "Drawing_a_conclusion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_024",
+      "lu": "αρνούμαι",
+      "belongs_to": [
+        "Drawing_a_conclusion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_025",
+      "lu": "αρνούμαι",
+      "belongs_to": [
+        "Agreement_or_disagreement"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_026",
+      "lu": "αρνούμαι",
+      "belongs_to": [
+        "Communicating_a_response"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_027",
+      "lu": "αρνούμαι",
+      "belongs_to": [
+        "Expressing_certainty_or_uncertainty"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_028",
+      "lu": "αρνούμαι",
+      "belongs_to": [
+        "Holding_an_opinion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_029",
+      "lu": "αρνούμαι",
+      "belongs_to": [
+        "Statement"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_030",
+      "lu": "αρνούμαι",
+      "belongs_to": [
+        "Accepting or refusing"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_031",
+      "lu": "αφήνω",
+      "belongs_to": [
+        "Granting_or_denying_permission"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_032",
+      "lu": "βάλλω κατά",
+      "belongs_to": [
+        "Agreement_or_disagreement"
+      ],
+      "pos": "vp"
+    },
+    {
+      "id": "lu_033",
+      "lu": "βάλλω κατά",
+      "belongs_to": [
+        "Expressing_judgment"
+      ],
+      "pos": "vp"
+    },
+    {
+      "id": "lu_034",
+      "lu": "βασίζω",
+      "belongs_to": [
+        "Associating_data"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_035",
+      "lu": "βγάζω στη φόρα",
+      "belongs_to": [
+        "Making_public"
+      ],
+      "pos": "vp"
+    },
+    {
+      "id": "lu_036",
+      "lu": "βέβαιος",
+      "belongs_to": [
+        "Expressing_certainty_or_uncertainty"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "lu_037",
+      "lu": "βρίσκω",
+      "belongs_to": [
+        "Drawing_a_conclusion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_038",
+      "lu": "βρίσκω",
+      "belongs_to": [
+        "Expressing_certainty_or_uncertainty"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_039",
+      "lu": "βρίσκω",
+      "belongs_to": [
+        "Holding_an_opinion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_040",
+      "lu": "γελάω",
+      "belongs_to": [
+        "Expressing_emotions"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_041",
+      "lu": "γνωρίζω",
+      "belongs_to": [
+        "Holding_an_opinion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_042",
+      "lu": "γνωρίζω",
+      "belongs_to": [
+        "Knowledge_of_a_topic"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_043",
+      "lu": "δακρύζω",
+      "belongs_to": [
+        "Expressing_emotions"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_044",
+      "lu": "δέχομαι",
+      "belongs_to": [
+        "Drawing_a_conclusion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_045",
+      "lu": "δέχομαι",
+      "belongs_to": [
+        "Agreement_or_disagreement"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_046",
+      "lu": "δέχομαι",
+      "belongs_to": [
+        "Communicating_a_response"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_047",
+      "lu": "δέχομαι",
+      "belongs_to": [
+        "Expressing_certainty_or_uncertainty"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_048",
+      "lu": "δέχομαι",
+      "belongs_to": [
+        "Holding_an_opinion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_049",
+      "lu": "δέχομαι",
+      "belongs_to": [
+        "Accepting or refusing"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_050",
+      "lu": "δέχομαι",
+      "belongs_to": [
+        "Statement"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_051",
+      "lu": "δηλώνω",
+      "belongs_to": [
+        "Formal_announcement"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_052",
+      "lu": "δημοσιεύω",
+      "belongs_to": [
+        "Making_public"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_053",
+      "lu": "διαμηνύω",
+      "belongs_to": [
+        "Statement"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_054",
+      "lu": "διαπιστώνω",
+      "belongs_to": [
+        "Associating_data"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_055",
+      "lu": "διαπιστώνω",
+      "belongs_to": [
+        "Understanding"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_056",
+      "lu": "διατάζω",
+      "belongs_to": [
+        "Giving_a_directive"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_057",
+      "lu": "διατυμπανίζω",
+      "belongs_to": [
+        "Communicating_an_opinion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_058",
+      "lu": "διαφωνώ",
+      "belongs_to": [
+        "Agreement_or_disagreement"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_059",
+      "lu": "διαψεύδω",
+      "belongs_to": [
+        "Proving_or_disproving"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_060",
+      "lu": "διδάσκω",
+      "belongs_to": [
+        "Transferring_knowledge"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_061",
+      "lu": "διευκρινίζω",
+      "belongs_to": [
+        "Detailing_a_situation"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_062",
+      "lu": "διευκρινίζω",
+      "belongs_to": [
+        "Explaining_the_meaning_of"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_063",
+      "lu": "δικαιολογώ",
+      "belongs_to": [
+        "Expressing_justification"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_064",
+      "lu": "δικαιολογώ",
+      "belongs_to": [
+        "Justifying"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_065",
+      "lu": "δικαιώνω",
+      "belongs_to": [
+        "Justifying"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_066",
+      "lu": "δίνω άδικο",
+      "belongs_to": [
+        "Expressing_justification"
+      ],
+      "pos": "vp"
+    },
+    {
+      "id": "lu_067",
+      "lu": "δίνω άδικο",
+      "belongs_to": [
+        "Justifying"
+      ],
+      "pos": "vp"
+    },
+    {
+      "id": "lu_068",
+      "lu": "δίνω απάντηση",
+      "belongs_to": [
+        "Communicating_a_response"
+      ],
+      "pos": "vp"
+    },
+    {
+      "id": "lu_069",
+      "lu": "δίνω διαταγή",
+      "belongs_to": [
+        "Giving_a_directive"
+      ],
+      "pos": "vp"
+    },
+    {
+      "id": "lu_070",
+      "lu": "δίνω δίκιο",
+      "belongs_to": [
+        "Expressing_justification"
+      ],
+      "pos": "vp"
+    },
+    {
+      "id": "lu_071",
+      "lu": "δίνω δίκιο",
+      "belongs_to": [
+        "Justifying"
+      ],
+      "pos": "vp"
+    },
+    {
+      "id": "lu_072",
+      "lu": "δίνω εντολή",
+      "belongs_to": [
+        "Giving_a_directive"
+      ],
+      "pos": "vp"
+    },
+    {
+      "id": "lu_073",
+      "lu": "δίνω οδηγία",
+      "belongs_to": [
+        "Transferring_knowledge"
+      ],
+      "pos": "vp"
+    },
+    {
+      "id": "lu_074",
+      "lu": "δίνω στη δημοσιότητα",
+      "belongs_to": [
+        "Making_public"
+      ],
+      "pos": "vp"
+    },
+    {
+      "id": "lu_075",
+      "lu": "δίνω συμβουλή",
+      "belongs_to": [
+        "Transferring_knowledge"
+      ],
+      "pos": "vp"
+    },
+    {
+      "id": "lu_076",
+      "lu": "δυσφημώ",
+      "belongs_to": [
+        "Influencing_one’s_reputation"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_077",
+      "lu": "εγκρίνω",
+      "belongs_to": [
+        "Expressing_judgment"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_078",
+      "lu": "είμαι της γνώμης",
+      "belongs_to": [
+        "Holding_an_opinion"
+      ],
+      "pos": "vp"
+    },
+    {
+      "id": "lu_079",
+      "lu": "εκθέτω",
+      "belongs_to": [
+        "Detailing_a_situation"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_080",
+      "lu": "εκτιμώ",
+      "belongs_to": [
+        "Holding_an_opinion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_081",
+      "lu": "εκτιμώ",
+      "belongs_to": [
+        "Hypothesising"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_082",
+      "lu": "εκφράζομαι κατά",
+      "belongs_to": [
+        "Expressing_judgment"
+      ],
+      "pos": "vp"
+    },
+    {
+      "id": "lu_083",
+      "lu": "εκφράζομαι υπέρ",
+      "belongs_to": [
+        "Expressing_judgment"
+      ],
+      "pos": "vp"
+    },
+    {
+      "id": "lu_084",
+      "lu": "εκφράζω",
+      "belongs_to": [
+        "Statement"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_085",
+      "lu": "ενημερώνω",
+      "belongs_to": [
+        "Detailing_a_situation"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_086",
+      "lu": "ενημερώνω",
+      "belongs_to": [
+        "Formal_announcement"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_087",
+      "lu": "ενημερώνω",
+      "belongs_to": [
+        "Statement"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_088",
+      "lu": "εντοπίζω",
+      "belongs_to": [
+        "Associating_data"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_089",
+      "lu": "εξετάζω",
+      "belongs_to": [
+        "Medical_examination"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_090",
+      "lu": "εξετάζω",
+      "belongs_to": [
+        "Scrutinising"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_091",
+      "lu": "εξηγώ",
+      "belongs_to": [
+        "Transferring_knowledge"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_092",
+      "lu": "εξηγώ",
+      "belongs_to": [
+        "Detailing_a_situation"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_093",
+      "lu": "εξηγώ",
+      "belongs_to": [
+        "Expressing_justification"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_094",
+      "lu": "επιβεβαιώνω",
+      "belongs_to": [
+        "Formal_announcement"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_095",
+      "lu": "επιθυμώ",
+      "belongs_to": [
+        "Desiring"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_096",
+      "lu": "επικοινωνώ",
+      "belongs_to": [
+        "Communicating"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_097",
+      "lu": "επικρίνω",
+      "belongs_to": [
+        "Expressing_judgment"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_098",
+      "lu": "επιλέγω",
+      "belongs_to": [
+        "Drawing_a_conclusion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_099",
+      "lu": "επισημαίνω",
+      "belongs_to": [
+        "Formal_announcement"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_100",
+      "lu": "επισημαίνω",
+      "belongs_to": [
+        "Statement"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_101",
+      "lu": "επιτρέπω",
+      "belongs_to": [
+        "Granting_or_denying_permission"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_102",
+      "lu": "επιφυλακτικός",
+      "belongs_to": [
+        "Expressing_certainty_or_uncertainty"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "lu_103",
+      "lu": "εύχομαι",
+      "belongs_to": [
+        "Desiring"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_104",
+      "lu": "έχω γνώση",
+      "belongs_to": [
+        "Knowledge_of_a_topic"
+      ],
+      "pos": "vp"
+    },
+    {
+      "id": "lu_105",
+      "lu": "έχω σχέση",
+      "belongs_to": [
+        "Cause_and_effect"
+      ],
+      "pos": "vp"
+    },
+    {
+      "id": "lu_106",
+      "lu": "έχω τη γνώμη",
+      "belongs_to": [
+        "Holding_an_opinion"
+      ],
+      "pos": "vp"
+    },
+    {
+      "id": "lu_107",
+      "lu": "έχω τη γνώμη",
+      "belongs_to": [
+        "Hypothesising"
+      ],
+      "pos": "vp"
+    },
+    {
+      "id": "lu_108",
+      "lu": "έχω την άποψη",
+      "belongs_to": [
+        "Holding_an_opinion"
+      ],
+      "pos": "vp"
+    },
+    {
+      "id": "lu_109",
+      "lu": "έχω την άποψη",
+      "belongs_to": [
+        "Hypothesising"
+      ],
+      "pos": "vp"
+    },
+    {
+      "id": "lu_110",
+      "lu": "ζητώ",
+      "belongs_to": [
+        "Demanding"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_111",
+      "lu": "ζητώ",
+      "belongs_to": [
+        "Requesting"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_112",
+      "lu": "θέλω",
+      "belongs_to": [
+        "Desiring"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_113",
+      "lu": "θεωρώ",
+      "belongs_to": [
+        "Expressing_certainty_or_uncertainty"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_114",
+      "lu": "θεωρώ",
+      "belongs_to": [
+        "Expressing_judgment"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_115",
+      "lu": "θεωρώ",
+      "belongs_to": [
+        "Holding_an_opinion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_116",
+      "lu": "θυμάμαι",
+      "belongs_to": [
+        "Accessing_a_memory"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_117",
+      "lu": "θυμάμαι",
+      "belongs_to": [
+        "Remembering_to_act"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_118",
+      "lu": "θυμίζω",
+      "belongs_to": [
+        "Causing_to_remember"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_119",
+      "lu": "κακοχαρακτηρίζω",
+      "belongs_to": [
+        "Influencing_one’s_reputation"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_120",
+      "lu": "καλοχαρακτηρίζω",
+      "belongs_to": [
+        "Influencing_one’s_reputation"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_121",
+      "lu": "καλώ",
+      "belongs_to": [
+        "Requesting"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_122",
+      "lu": "καταλαβαίνω",
+      "belongs_to": [
+        "Understanding"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_123",
+      "lu": "καταλήγω",
+      "belongs_to": [
+        "Drawing_a_conclusion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_124",
+      "lu": "κατανοώ",
+      "belongs_to": [
+        "Understanding"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_125",
+      "lu": "καταστρέφω τη φήμη",
+      "belongs_to": [
+        "Influencing_one’s_reputation"
+      ],
+      "pos": "vp"
+    },
+    {
+      "id": "lu_126",
+      "lu": "κατατάσσω",
+      "belongs_to": [
+        "Categorising"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_127",
+      "lu": "κλαίω",
+      "belongs_to": [
+        "Expressing_emotions"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_128",
+      "lu": "κουβεντιάζω",
+      "belongs_to": [
+        "Conversation"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_129",
+      "lu": "κρίνω",
+      "belongs_to": [
+        "Expressing_judgment"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_130",
+      "lu": "λαμβάνω υπ' όψιν",
+      "belongs_to": [
+        "Taking_into_account"
+      ],
+      "pos": "vp"
+    },
+    {
+      "id": "lu_131",
+      "lu": "λέω",
+      "belongs_to": [
+        "Formal_announcement"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_132",
+      "lu": "λέω",
+      "belongs_to": [
+        "Statement"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_133",
+      "lu": "λησμονώ",
+      "belongs_to": [
+        "Accessing_a_memory"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_134",
+      "lu": "λησμονώ",
+      "belongs_to": [
+        "Remembering_to_act"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_135",
+      "lu": "μαθαίνω",
+      "belongs_to": [
+        "Transferring_knowledge"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_136",
+      "lu": "μελετώ",
+      "belongs_to": [
+        "Transferring_knowledge"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_137",
+      "lu": "μελετώ",
+      "belongs_to": [
+        "Scrutinising"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_138",
+      "lu": "μεταδίδω",
+      "belongs_to": [
+        "Visual_description"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_139",
+      "lu": "μιλάω",
+      "belongs_to": [
+        "Conversation"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_140",
+      "lu": "μιλάω",
+      "belongs_to": [
+        "Communicating"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_141",
+      "lu": "μιλάω",
+      "belongs_to": [
+        "Statement"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_142",
+      "lu": "νομίζω",
+      "belongs_to": [
+        "Hypothesising"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_143",
+      "lu": "ξέρω",
+      "belongs_to": [
+        "Holding_an_opinion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_144",
+      "lu": "ξέρω",
+      "belongs_to": [
+        "Knowledge_of_a_topic"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_145",
+      "lu": "ξεσπάω",
+      "belongs_to": [
+        "Expressing_emotions"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_146",
+      "lu": "ξεσπάω σε γέλια",
+      "belongs_to": [
+        "Expressing_emotions"
+      ],
+      "pos": "vp"
+    },
+    {
+      "id": "lu_147",
+      "lu": "ξεσπάω σε κλάματα",
+      "belongs_to": [
+        "Expressing_emotions"
+      ],
+      "pos": "vp"
+    },
+    {
+      "id": "lu_148",
+      "lu": "ξεχνάω",
+      "belongs_to": [
+        "Accessing_a_memory"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_149",
+      "lu": "ξεχνάω",
+      "belongs_to": [
+        "Remembering_to_act"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_150",
+      "lu": "ξεχωρίζω",
+      "belongs_to": [
+        "Sorting_out"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_151",
+      "lu": "οδηγία",
+      "belongs_to": [
+        "Giving_a_directive"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "lu_152",
+      "lu": "ορίζω",
+      "belongs_to": [
+        "Explaining_the_meaning_of"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_153",
+      "lu": "ορίζω",
+      "belongs_to": [
+        "Giving_a_directive"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_154",
+      "lu": "παρακινώ",
+      "belongs_to": [
+        "Urging"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_155",
+      "lu": "παρατηρώ",
+      "belongs_to": [
+        "Sorting_out"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_156",
+      "lu": "παρουσιάζω",
+      "belongs_to": [
+        "Formal_announcement"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_157",
+      "lu": "περιγράφω",
+      "belongs_to": [
+        "Detailing_a_situation"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_158",
+      "lu": "περιγράφω",
+      "belongs_to": [
+        "Explaining_the_meaning_of"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_159",
+      "lu": "περιγράφω",
+      "belongs_to": [
+        "Visual_description"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_160",
+      "lu": "περιμένω",
+      "belongs_to": [
+        "Holding_an_opinion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_161",
+      "lu": "πιθανολογώ",
+      "belongs_to": [
+        "Hypothesising"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_162",
+      "lu": "πιστεύω",
+      "belongs_to": [
+        "Holding_an_opinion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_163",
+      "lu": "πιστεύω",
+      "belongs_to": [
+        "Hypothesising"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_164",
+      "lu": "προβλέπω",
+      "belongs_to": [
+        "Drawing_a_conclusion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_165",
+      "lu": "προβλέπω",
+      "belongs_to": [
+        "Holding_an_opinion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_166",
+      "lu": "προειδοποιώ",
+      "belongs_to": [
+        "Threatening"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_167",
+      "lu": "προειδοποιώ",
+      "belongs_to": [
+        "Warning"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_168",
+      "lu": "προσδιορίζω",
+      "belongs_to": [
+        "Drawing_a_conclusion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_169",
+      "lu": "προσθέτω",
+      "belongs_to": [
+        "Statement"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_170",
+      "lu": "προτείνω",
+      "belongs_to": [
+        "Communicating_an_opinion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_171",
+      "lu": "προτρέπω",
+      "belongs_to": [
+        "Urging"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_172",
+      "lu": "σημειώνω",
+      "belongs_to": [
+        "Formal_announcement"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_173",
+      "lu": "σημειώνω",
+      "belongs_to": [
+        "Statement"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_174",
+      "lu": "συγχωρώ",
+      "belongs_to": [
+        "Justifying"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_175",
+      "lu": "συζητώ",
+      "belongs_to": [
+        "Conversation"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_176",
+      "lu": "συμπεραίνω",
+      "belongs_to": [
+        "Drawing_a_conclusion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_177",
+      "lu": "συμπεριλαμβάνω",
+      "belongs_to": [
+        "Taking_into_account"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_178",
+      "lu": "συμπληρώνω",
+      "belongs_to": [
+        "Emphasising"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_179",
+      "lu": "συμπληρώνω",
+      "belongs_to": [
+        "Statement"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_180",
+      "lu": "συμφωνώ",
+      "belongs_to": [
+        "Agreement_or_disagreement"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_181",
+      "lu": "συνδέω",
+      "belongs_to": [
+        "Associating_data"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_182",
+      "lu": "συνδέω",
+      "belongs_to": [
+        "Cause_and_effect"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_183",
+      "lu": "συνεπάγομαι",
+      "belongs_to": [
+        "Cause_and_effect"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_184",
+      "lu": "συνιστώ",
+      "belongs_to": [
+        "Communicating_an_opinion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_185",
+      "lu": "συνοψίζω",
+      "belongs_to": [
+        "Detailing_a_situation"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_186",
+      "lu": "συσχετίζω",
+      "belongs_to": [
+        "Associating_data"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_187",
+      "lu": "συσχετίζω",
+      "belongs_to": [
+        "Cause_and_effect"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_188",
+      "lu": "σχετίζω",
+      "belongs_to": [
+        "Associating_data"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_189",
+      "lu": "σχετίζω",
+      "belongs_to": [
+        "Cause_and_effect"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_190",
+      "lu": "τα λέω",
+      "belongs_to": [
+        "Conversation"
+      ],
+      "pos": "vp"
+    },
+    {
+      "id": "lu_191",
+      "lu": "τονίζω",
+      "belongs_to": [
+        "Emphasising"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_192",
+      "lu": "τονίζω",
+      "belongs_to": [
+        "Formal_announcement"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_193",
+      "lu": "τονίζω",
+      "belongs_to": [
+        "Statement"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_194",
+      "lu": "τοποθετούμαι κατά",
+      "belongs_to": [
+        "Expressing_judgment"
+      ],
+      "pos": "vp"
+    },
+    {
+      "id": "lu_195",
+      "lu": "τοποθετούμαι υπέρ",
+      "belongs_to": [
+        "Expressing_judgment"
+      ],
+      "pos": "vp"
+    },
+    {
+      "id": "lu_196",
+      "lu": "υιοθετώ",
+      "belongs_to": [
+        "Assuming_an_opinion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_197",
+      "lu": "υπενθυμίζω",
+      "belongs_to": [
+        "Causing_to_remember"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_198",
+      "lu": "υπενθυμίζω",
+      "belongs_to": [
+        "Communicating_an_opinion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_199",
+      "lu": "υπερασπίζομαι",
+      "belongs_to": [
+        "Expressing_judgment"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_200",
+      "lu": "υπερασπίζομαι",
+      "belongs_to": [
+        "Expressing_justification"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_201",
+      "lu": "υπογραμμίζω",
+      "belongs_to": [
+        "Emphasising"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_202",
+      "lu": "υπογραμμίζω",
+      "belongs_to": [
+        "Formal_announcement"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_203",
+      "lu": "υπογραμμίζω",
+      "belongs_to": [
+        "Statement"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_204",
+      "lu": "υποδεικνύω",
+      "belongs_to": [
+        "Giving_a_directive"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_205",
+      "lu": "υποθέτω",
+      "belongs_to": [
+        "Hypothesising"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_206",
+      "lu": "υπολογίζω",
+      "belongs_to": [
+        "Drawing_a_conclusion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_207",
+      "lu": "υπολογίζω",
+      "belongs_to": [
+        "Holding_an_opinion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_208",
+      "lu": "υποστηρίζω",
+      "belongs_to": [
+        "Agreement_or_disagreement"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_209",
+      "lu": "υποστηρίζω",
+      "belongs_to": [
+        "Expressing_judgment"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_210",
+      "lu": "υποστηρίζω",
+      "belongs_to": [
+        "Holding_an_opinion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_211",
+      "lu": "φαίνομαι",
+      "belongs_to": [
+        "Proving_or_disproving"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_212",
+      "lu": "φημίζομαι",
+      "belongs_to": [
+        "Influencing_one’s_reputation"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_213",
+      "lu": "φτιάχνω το όνομα",
+      "belongs_to": [
+        "Influencing_one’s_reputation"
+      ],
+      "pos": "vid"
+    },
+    {
+      "id": "lu_214",
+      "lu": "χαλάω το όνομα",
+      "belongs_to": [
+        "Influencing_one’s_reputation"
+      ],
+      "pos": "vid"
+    },
+    {
+      "id": "lu_215",
+      "lu": "χαρακτηρίζω",
+      "belongs_to": [
+        "Communicating_an_opinion"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_216",
+      "lu": "χαρακτηρίζω",
+      "belongs_to": [
+        "Detailing_a_situation"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lu_217",
+      "lu": "χαρακτηρίζω",
+      "belongs_to": [
+        "Influencing_one’s_reputation"
+      ],
+      "pos": "v"
+    }
+  ]
+}
